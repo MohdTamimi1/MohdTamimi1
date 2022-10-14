@@ -1,6 +1,5 @@
-Mohammad AlTamimi
-FrontEnd Web Development
-I’m currently taking a course in computer science
+- Mohammad AlTamimi
+- FrontEnd Web Development
 
 <!---
 MohdTamimi1/MohdTamimi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
