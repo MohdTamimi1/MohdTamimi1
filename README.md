@@ -1,5 +1,5 @@
 - Mohammad AlTamimi
-- Java Developmer
+- Java Developer
 - Java, Javascript, HTML, CSS, SQL
 
 <!---
