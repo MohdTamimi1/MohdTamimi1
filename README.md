@@ -1,5 +1,5 @@
 - Mohammad AlTamimi
-- Backend Developer
+- Software Developer
 - Java, Javascript, React, HTML, CSS, SQL
 
 <!---
