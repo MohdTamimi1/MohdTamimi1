@@ -1,6 +1,6 @@
 - Mohammad AlTamimi
 - Backend Developer
-- Java, Javascript, php, HTML, CSS, SQL
+- Java, Javascript, React, HTML, CSS, SQL
 
 <!---
 MohdTamimi1/MohdTamimi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
