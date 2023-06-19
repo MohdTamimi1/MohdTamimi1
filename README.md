@@ -1,6 +1,6 @@
 - Mohammad AlTamimi
 - Software Developer
-- Java, Javascript, Node.Js, HTML, CSS, SQL
+- Java, Javascript, Python, HTML, CSS, SQL
 
 <!---
 MohdTamimi1/MohdTamimi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
